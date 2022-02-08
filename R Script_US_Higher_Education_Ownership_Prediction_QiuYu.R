@@ -1,6 +1,4 @@
-# Week 3: Module 3 Assignment
-# Class: ALY6015-21788 
-# Student: Yu Qiu
+# Author: Yu Qiu
 # Date: 01/30/2022
 
 #To library the packages needed
